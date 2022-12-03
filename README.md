@@ -1,6 +1,6 @@
-# IMPLEMENTATION OF EULER, RUNGE KUTTA AND MULTI STEP EXE PROGRAM
+## IMPLEMENTATION OF EULER, RUNGE KUTTA AND MULTI STEP EXE PROGRAM
 
-## The program was written using the python programming language without any external packages and the program was converted from a python file to an exe file using the auto-py-to-exe
+### The program was written using the python programming language without any external packages and the program was converted from a python file to an exe file using the auto-py-to-exe
 
 ## Step 1
 
